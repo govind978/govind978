@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=How+are+you+doing+today+?;Glad+you+visited+my+profile+!;Read+along+to+know+about+me;)](https://git.io/typing-svg)
 
 <p>At present, I am a student at Thapar Institute of Engineering and Technology. Pursuing my B.Tech degree in Computer Science and Engineering. </p>
- I am currently learning to develop apps using Java 😃<br>
-- Also learning about Databases and Backend development.<br> 
+ I am currently learning deep learning 😃<br>
+- Also learning about Data Structures and Algorithms & full stack Development.<br> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
