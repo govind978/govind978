@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/govind_singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ironman08032722" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/govind-singla-2838801a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshara-s-pa-1120bb210/" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/govind-singla-2838801a6/](https://www.linkedin.com/in/govind--singla/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akshara-s-pa-1120bb210/" height="30" width="40" /></a>
 <a href="https://leetcode.com/singlagovind794/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/68467567/234194825-b3b7806d-8cf1-4e0e-a983-c2bc49524212.png" alt="medium" height="30" width="40"/></a>
  
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=govind978&label=Profile%20views&color=0e75b6&style=flat" alt="govind978" /> </p>
